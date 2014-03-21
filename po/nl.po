@@ -27,7 +27,7 @@ msgstr "Programma om expresberichten te versturen"
 
 #: ../data/gnome-chat.desktop.in.in.h:3
 msgid "Chat;Talk;IM;Message;VOIP;GTalk;Facebook;Jabber;"
-msgstr "Chat;Talk;IM;Message;VOIP;GTalk;Facebook;Jabber;bericht"
+msgstr "Chat;Talk;IM;Message;VOIP;GTalk;Facebook;Jabber;bericht;"
 
 #: ../data/org.gnome.chat.gschema.xml.in.h:1
 msgid "Window size"
