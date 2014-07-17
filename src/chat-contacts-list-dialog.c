@@ -345,8 +345,6 @@ GtkWidget *
 chat_contacts_list_dialog_new (void)
 {
   return g_object_new (CHAT_TYPE_CONTACTS_LIST_DIALOG,
-#if GTK_CHECK_VERSION (3, 11, 5)
                        "use-header-bar", TRUE,
-#endif
                        NULL);
 }

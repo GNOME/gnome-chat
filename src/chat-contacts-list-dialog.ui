@@ -9,43 +9,24 @@
     <property name="default_height">600</property>
     <property name="destroy_with_parent">True</property>
     <property name="type_hint">dialog</property>
-    <child type="titlebar">
-      <object class="GtkHeaderBar" id="header_bar">
+    <property name="use_header_bar">1</property>
+    <child type="action">
+      <object class="GtkButton" id="cancel_button">
         <property name="visible">True</property>
-        <property name="can_focus">False</property>
-        <property name="vexpand">False</property>
-        <property name="title" translatable="yes">New Conversation</property>
-        <child>
-          <object class="GtkButton" id="cancel_button">
-            <property name="visible">True</property>
-            <property name="valign">center</property>
-            <property name="can_focus">False</property>
-            <property name="label" translatable="yes">Cancel</property>
-            <style>
-              <class name="text-button"/>
-            </style>
-          </object>
-          <packing>
-            <property name="pack_type">start</property>
-          </packing>
-        </child>
-        <child>
-          <object class="GtkButton" id="done_button">
-            <property name="visible">True</property>
-            <property name="valign">center</property>
-            <property name="can_focus">False</property>
-            <property name="label" translatable="yes">Done</property>
-            <style>
-              <class name="text-button"/>
-              <class name="suggested-action"/>
-            </style>
-          </object>
-          <packing>
-            <property name="pack_type">end</property>
-          </packing>
-        </child>
+        <property name="label" translatable="yes">Cancel</property>
       </object>
     </child>
+    <child type="action">
+      <object class="GtkButton" id="done_button">
+        <property name="visible">True</property>
+        <property name="label" translatable="yes">Done</property>
+        <property name="can_default">True</property>
+      </object>
+    </child>
+    <action-widgets>
+      <action-widget response="cancel">cancel_button</action-widget>
+      <action-widget response="ok" default="true">done_button</action-widget>
+    </action-widgets>
     <child internal-child="vbox">
       <object class="GtkBox" id="box">
         <property name="can_focus">False</property>
