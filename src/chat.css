@@ -1,9 +1,13 @@
 .chat-sidebar:dir(ltr) {
     border-width: 0 1px 0 0;
+    border-style: solid;
+    border-color: @borders;
 }
 
 .chat-sidebar:dir(rtl) {
     border-width: 0 0 0 1px;
+    border-style: solid;
+    border-color: @borders;
 }
 
 .chat-status-area,
@@ -11,7 +15,7 @@
     border-width: 1px 0 0 0;
 }
 
-chat-left-header-bar:dir(ltr) {
+.chat-left-header-bar:dir(ltr) {
  border-right-width: 1px;
 }
 
