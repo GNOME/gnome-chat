@@ -16,19 +16,19 @@
 }
 
 .chat-left-header-bar:dir(ltr) {
- border-right-width: 1px;
+	border-right-width: 1px;
 }
 
 .chat-left-header-bar:dir(rtl) {
- border-left-width: 1px;
+	border-left-width: 1px;
 }
 
 .chat-left-header-bar:dir(ltr),
 .chat-right-header-bar:dir(rtl) {
-  border-top-right-radius: 0;
+	border-top-right-radius: 0;
 }
 
 .chat-right-header-bar:dir(ltr),
 .chat-left-header-bar:dir(rtl) {
-  border-top-left-radius: 0;
+	border-top-left-radius: 0;
 }
