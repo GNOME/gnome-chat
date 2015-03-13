@@ -1,0 +1,121 @@
+# Bosnian translation for bosnianuniversetranslation
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the bosnianuniversetranslation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bosnianuniversetranslation\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"chat&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-02-27 07:10+0000\n"
+"PO-Revision-Date: 2014-01-18 21:52+0000\n"
+"Last-Translator: Samir Ribić <Unknown>\n"
+"Language-Team: Bosnian <bs@li.org>\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17341)\n"
+"X-Launchpad-Export-Date: 2015-02-15 06:20+0000\n"
+
+#: ../data/gnome-chat.desktop.in.in.h:1
+msgid "Chat"
+msgstr "Ćaskanje"
+
+#: ../data/gnome-chat.desktop.in.in.h:2
+msgid "Instant messaging client"
+msgstr "Poruke instant klijenta"
+
+#: ../data/gnome-chat.desktop.in.in.h:3
+msgid "Chat;Talk;IM;Message;VOIP;GTalk;Facebook;Jabber;"
+msgstr "Ćaskanje;Pričaj;IM;Poruka;VOIP;Gpričaj;Facebook;Jabber;"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:1
+msgid "Window size"
+msgstr "Veličina prozora"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:2
+msgid "Window size (width and height)."
+msgstr "Veličina prozora(sirina  i visina)."
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:3
+msgid "Window position"
+msgstr "Pozicija prozora"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:4
+msgid "Window position (x and y)."
+msgstr "Pozicija prozora (x i y)."
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:5
+msgid "Window maximized"
+msgstr "Uvećan prozor"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:6
+msgid "Window maximized state"
+msgstr "Stanje uvećanog prozora"
+
+#: ../src/chat-app-menu.ui.h:1
+msgid "About Chat"
+msgstr "O ćaskanju"
+
+#: ../src/chat-app-menu.ui.h:2
+msgid "Quit"
+msgstr "Izlaz"
+
+#: ../src/chat-contacts-list-dialog.ui.h:1
+msgid "New Conversation"
+msgstr "Novi razgovor"
+
+#: ../src/chat-contacts-list-dialog.ui.h:2
+msgid "Cancel"
+msgstr "Otkaži"
+
+#: ../src/chat-contacts-list-dialog.ui.h:3
+msgid "Done"
+msgstr "Završeno"
+
+#: ../src/chat-contacts-list-dialog.ui.h:4
+msgid "Type to search a contact…"
+msgstr "Kucaj za pretragu kontakta…"
+
+#: ../src/chat-main-toolbar.ui.h:1
+msgid "Conversations"
+msgstr "Razgovori"
+
+#: ../src/chat-main-window.c:262
+msgid "Instant messaging client for GNOME"
+msgstr "Klijent za Instant poruke za GNOME"
+
+#. Translators: Put your names here
+#: ../src/chat-main-window.c:272
+msgid "translator-credits"
+msgstr ""
+"   Dijelila Halać https://launchpad.net/~delila94\n"
+"  Samir Ribić https://launchpad.net/~megaribi"
+
+#: ../src/empathy-utils.c:36
+msgid "Available"
+msgstr "Dostupan"
+
+#: ../src/empathy-utils.c:38
+msgid "Busy"
+msgstr "Zauzet"
+
+#: ../src/empathy-utils.c:41
+msgid "Away"
+msgstr "Odsutan"
+
+#: ../src/empathy-utils.c:43
+msgid "Invisible"
+msgstr "Nevidljiv"
+
+#: ../src/empathy-utils.c:45
+msgid "Offline"
+msgstr "Van mreže"
+
+#. translators: presence type is unknown
+#: ../src/empathy-utils.c:48
+msgctxt "presence"
+msgid "Unknown"
+msgstr "Nepoznat"
