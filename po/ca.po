@@ -1,0 +1,117 @@
+# Catañam translation for gnome-chat.
+# Copyright (C) 2015 gnome-chat's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-chat package.
+#
+# Jordi Mas i Hernàndez <jmas@softcatala.org>, 2015
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-chat master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-14 07:29-0400\n"
+"PO-Revision-Date: 2015-03-14 07:30-0500\n"
+"Last-Translator: Jordi Mas i Hernàndez <jmas@softcatala.org>\n"
+"Language-Team: ca_ES <tradgnome@softcatala.net>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../data/gnome-chat.desktop.in.in.h:1
+msgid "Chat"
+msgstr "Chat"
+
+#: ../data/gnome-chat.desktop.in.in.h:2
+msgid "Instant messaging client"
+msgstr "Client de missatgeria instantània"
+
+#: ../data/gnome-chat.desktop.in.in.h:3
+msgid "Chat;Talk;IM;Message;VOIP;GTalk;Facebook;Jabber;"
+msgstr "Xateja;Parla;IM;Missatge;VOIP;GTalk;Facebook;Jabber;"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:1
+msgid "Window size"
+msgstr "Mida de la finestra"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:2
+msgid "Window size (width and height)."
+msgstr "Mida de la finestra (amplada i alçada)"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:3
+msgid "Window position"
+msgstr "Posició de la finestra"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:4
+msgid "Window position (x and y)."
+msgstr "Posició de la finestra (x i y)"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:5
+msgid "Window maximized"
+msgstr "Finestra maximitzada"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:6
+msgid "Window maximized state"
+msgstr "Estat de la finestra maximitzada"
+
+#: ../src/chat-app-menu.ui.h:1
+msgid "About Chat"
+msgstr "Quant al Chat"
+
+#: ../src/chat-app-menu.ui.h:2
+msgid "Quit"
+msgstr "Surt"
+
+#: ../src/chat-contacts-list-dialog.ui.h:1
+msgid "New Conversation"
+msgstr "Conversa nova"
+
+#: ../src/chat-contacts-list-dialog.ui.h:2
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: ../src/chat-contacts-list-dialog.ui.h:3
+msgid "Done"
+msgstr "Fet"
+
+#: ../src/chat-contacts-list-dialog.ui.h:4
+msgid "Type to search a contact…"
+msgstr "Escriviu per cercar un contacte…"
+
+#: ../src/chat-main-toolbar.ui.h:1
+msgid "Conversations"
+msgstr "Converses"
+
+#: ../src/chat-main-window.c:262
+msgid "Instant messaging client for GNOME"
+msgstr "Un client de missatgeria instantània per al GNOME"
+
+#. Translators: Put your names here
+#: ../src/chat-main-window.c:272
+msgid "translator-credits"
+msgstr "Jordi Mas i Hernàndez <jmas@softcatala.org>, 2015"
+
+#: ../src/empathy-utils.c:36
+msgid "Available"
+msgstr "Disponible"
+
+#: ../src/empathy-utils.c:38
+msgid "Busy"
+msgstr "Ocupat"
+
+#: ../src/empathy-utils.c:41
+msgid "Away"
+msgstr "Absent"
+
+#: ../src/empathy-utils.c:43
+msgid "Invisible"
+msgstr "Invisible"
+
+#: ../src/empathy-utils.c:45
+msgid "Offline"
+msgstr "Fora de línia"
+
+#. translators: presence type is unknown
+#: ../src/empathy-utils.c:48
+msgctxt "presence"
+msgid "Unknown"
+msgstr "Desconegut"
