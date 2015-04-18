@@ -7,8 +7,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-chat master\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-14 07:29-0400\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"chat&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-03-14 11:43+0000\n"
 "PO-Revision-Date: 2015-03-14 07:30-0500\n"
 "Last-Translator: Jordi Mas i Hernàndez <jmas@softcatala.org>\n"
 "Language-Team: ca_ES <tradgnome@softcatala.net>\n"
@@ -35,7 +36,7 @@ msgstr "Mida de la finestra"
 
 #: ../data/org.gnome.chat.gschema.xml.in.h:2
 msgid "Window size (width and height)."
-msgstr "Mida de la finestra (amplada i alçada)"
+msgstr "Mida de la finestra (amplada i alçada)."
 
 #: ../data/org.gnome.chat.gschema.xml.in.h:3
 msgid "Window position"
@@ -43,7 +44,7 @@ msgstr "Posició de la finestra"
 
 #: ../data/org.gnome.chat.gschema.xml.in.h:4
 msgid "Window position (x and y)."
-msgstr "Posició de la finestra (x i y)"
+msgstr "Posició de la finestra (x i y)."
 
 #: ../data/org.gnome.chat.gschema.xml.in.h:5
 msgid "Window maximized"
