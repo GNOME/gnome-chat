@@ -1,0 +1,123 @@
+# Lithuanian translation for gnome-chat.
+# Copyright (C) 2015 gnome-chat's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-chat package.
+# Moo <hazap@hotmail.com>, 2015.
+# Aurimas Černius <aurisc4@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-chat master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"chat&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-11-13 08:08+0000\n"
+"PO-Revision-Date: 2015-11-19 22:00+0200\n"
+"Last-Translator: Aurimas Černius <aurisc4@gmail.com>\n"
+"Language-Team: Lietuvių <gnome-lt@lists.akl.lt>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Gtranslator 2.91.7\n"
+
+#: ../data/gnome-chat.desktop.in.in.h:1
+msgid "Chat"
+msgstr "Pokalbiai"
+
+#: ../data/gnome-chat.desktop.in.in.h:2
+msgid "Instant messaging client"
+msgstr "Tikralaikių pokalbių kliento programa"
+
+#: ../data/gnome-chat.desktop.in.in.h:3
+msgid "Chat;Talk;IM;Message;VOIP;GTalk;Facebook;Jabber;"
+msgstr "Pokalbiai;Kalbėti;IM;Pranešimas;VOIP;GTalk;Facebook;Jabber;"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:1
+msgid "Window size"
+msgstr "Lango dydis"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:2
+msgid "Window size (width and height)."
+msgstr "Lango dydis (plotis ir aukštis)."
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:3
+msgid "Window position"
+msgstr "Lango padėtis"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:4
+msgid "Window position (x and y)."
+msgstr "Lango padėtis (x ir y)."
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:5
+msgid "Window maximized"
+msgstr "Langas išdidintas"
+
+#: ../data/org.gnome.chat.gschema.xml.in.h:6
+msgid "Window maximized state"
+msgstr "Lango išdidinimo būsena"
+
+#: ../src/chat-app-menu.ui.h:1
+msgid "About Chat"
+msgstr "Apie Pokalbius"
+
+#: ../src/chat-app-menu.ui.h:2
+msgid "Quit"
+msgstr "Išeiti"
+
+#: ../src/chat-contacts-list-dialog.ui.h:1
+msgid "New Conversation"
+msgstr "Naujas pokalbis"
+
+#: ../src/chat-contacts-list-dialog.ui.h:2
+msgid "Cancel"
+msgstr "Atsisakyti"
+
+#: ../src/chat-contacts-list-dialog.ui.h:3
+msgid "Done"
+msgstr "Atlikta"
+
+#: ../src/chat-contacts-list-dialog.ui.h:4
+msgid "Type to search a contact…"
+msgstr "Rašykite, kad ieškotumėte kontaktų…"
+
+#: ../src/chat-main-toolbar.ui.h:1
+msgid "Conversations"
+msgstr "Pokalbiai"
+
+#: ../src/chat-main-window.c:262
+msgid "Instant messaging client for GNOME"
+msgstr "Tikralaikių pokalbių kliento programa, skirta GNOME"
+
+#. Translators: Put your names here
+#: ../src/chat-main-window.c:272
+msgid "translator-credits"
+msgstr ""
+"Išvertė:\n"
+"Moo <hazap@hotmail.com>"
+
+#: ../src/empathy-utils.c:36
+msgid "Available"
+msgstr "Prieinamas"
+
+#: ../src/empathy-utils.c:38
+msgid "Busy"
+msgstr "Užsiėmęs"
+
+#: ../src/empathy-utils.c:41
+msgid "Away"
+msgstr "Atsitraukęs"
+
+#: ../src/empathy-utils.c:43
+msgid "Invisible"
+msgstr "Nematomas"
+
+#: ../src/empathy-utils.c:45
+msgid "Offline"
+msgstr "Atsijungęs"
+
+#. translators: presence type is unknown
+#: ../src/empathy-utils.c:48
+msgctxt "presence"
+msgid "Unknown"
+msgstr "Nežinoma"
