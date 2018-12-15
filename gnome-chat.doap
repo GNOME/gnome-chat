@@ -20,8 +20,8 @@
 
   <repository>
     <GitRepository>
-      <location rdf:resource="git://git.gnome.org/gnome-chat" />
-      <browse rdf:resource="https://git.gnome.org/browse/gnome-chat/" />
+      <location rdf:resource="https://gitlab.gnome.org/GNOME/gnome-chat.git" />
+      <browse rdf:resource="https://gitlab.gnome.org/GNOME/gnome-chat" />
     </GitRepository>
   </repository>
 
