@@ -15,7 +15,7 @@
   <download-page rdf:resource="http://download.gnome.org/sources/gnome-chat" />
   <bug-database rdf:resource="https://gitlab.gnome.org/GNOME/gnome-chat/issues/" />
 
-  <category rdf:resource="http://api.gnome.org/doap-extensions#desktop" />
+  <!-- <category rdf:resource="http://api.gnome.org/doap-extensions#desktop" /> -->
   <programming-language>C</programming-language>
 
   <repository>
