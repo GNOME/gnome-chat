@@ -1,8 +1,8 @@
 AC_INIT([Chat],
         [3.11.1],
-        [https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-chat],
+        [https://gitlab.gnome.org/GNOME/gnome-chat/-/issues/],
         [gnome-chat],
-        [https://wiki.gnome.org/Apps/Chat])
+        [https://wiki.gnome.org/Design/Apps/Chat])
 AC_PREREQ(2.63)
 
 AC_CONFIG_AUX_DIR([config])

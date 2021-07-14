@@ -1,11 +1,9 @@
 Chat - instant messaging client for GNOME
 =========================================
 
-Bugs: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-chat
-Design: https://live.gnome.org/Design/Apps/Chat
-Download: http://download.gnome.org/sources/gnome-chat
-Git: http://git.gnome.org/browse/gnome-chat
-Website: https://wiki.gnome.org/Apps/Chat
+Bugs: https://gitlab.gnome.org/GNOME/gnome-chat/-/issues/
+Design: https://wiki.gnome.org/Design/Apps/Chat
+Git: https://gitlab.gnome.org/GNOME/gnome-chat/
 
 ----
 
